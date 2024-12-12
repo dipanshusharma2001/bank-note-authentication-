@@ -36,6 +36,3 @@ https://www.linkedin.com/in/dipanshu-sharma-523921176 <br/>
 Final Year Undergraduate, <br/>
 Mathematics Department IIT Bombay <br/>
 https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170 <br/>
-
-
-visit the following website to use the model: https://ml-bank-note-authentication.herokuapp.com/
